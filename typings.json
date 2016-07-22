@@ -1,0 +1,6 @@
+{
+  "name": "jvm",
+  "main": "lib\index.d.ts",
+  "homepage": "https://github.com/kylestev/jvm.js#readme",
+  "version": "0.0.21"
+}
