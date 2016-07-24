@@ -2,5 +2,8 @@
   "name": "jvm",
   "main": "lib/core/Jar.d.ts",
   "homepage": "https://github.com/kylestev/jvm.js#readme",
-  "version": "0.0.21"
+  "version": "0.0.21",
+  "globalDependencies": {
+    "promise": "registry:dt/promise#7.1.1+20160602154553"
+  }
 }
